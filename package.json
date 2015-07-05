@@ -1,0 +1,25 @@
+{
+  "name": "emoji-loader",
+  "version": "0.1.0",
+  "description": "a emoji preparser for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexaivars/emoji-loader.git"
+  },
+  "keywords": [
+    "parser",
+    "webpack",
+    "util",
+		"emoji"
+  ],
+  "author": "alexander aivars",
+  "bugs": {
+    "url": "https://github.com/alexaivars/emoji-loader/issues"
+  },
+  "homepage": "https://github.com/alexaivars/emoji-loader",
+  "license": "Beerware"
+}
